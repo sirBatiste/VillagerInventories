@@ -1,0 +1,6 @@
+name: BatisteVillagerInventories
+author: SirBatiste
+main: be.batiste.villagerInventories.VillagerInventories
+version: 0.1
+api-version: 1.18
+description: Open the hidden villager inventories
